@@ -25,7 +25,7 @@ In this project we focused data analysis with Westher  dataset of Bangladesh and
 
 .Let's analyze the Rainfall data
 
-Corellation between rain and
+.Corellation between rain and temparature
 #
 # 2. Installation
 .Python versions 3.*.
@@ -42,13 +42,12 @@ Corellation between rain and
 
 .matplotlib.
 
-.datetime.
 #
 # 3. Data
-There are sales data available for 45 stores of Walmart in Kaggle. This is the data that covers sales from 2010-02-05 to 2012-11-01.
+There are Weather data available in Kaggle. This dataset contains the monthly average value of Bangladesh temperature and rain from 1901 to 2015.
 #
 # 4. Implementation
-In this project, we used .....
+In this project, I have used anaconda Jupyter notebook...
 #
 # 5. Result
 The details of the results show in the code.
