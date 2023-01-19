@@ -32,13 +32,15 @@ In this project we focused data analysis with Westher  dataset of Bangladesh and
 
 .Python Libraries:
 
-.sklearn.
-
 .Pandas.
 
 .numpy.
 
 .seaborn
+
+.plotly
+
+.os
 
 .matplotlib.
 
