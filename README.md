@@ -1,4 +1,3 @@
-# DataScienceProject
 # Weather Data Analysis of Bangladesh
 
 1.Project Motivation
