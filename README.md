@@ -14,22 +14,34 @@
 In this project we focused data analysis with Westher  dataset of Bangladesh and answer the following questions:
 
 1.Temparature of Bangladesh
+
 2.Rainfall of Bangladesh
+
 3.Relation between Temparature and Rainfall
-#
-Exploring the dataset
-Let's analyze the temparature
-Let's analyze the Rainfall data
+# Table of Content
+.Exploring the dataset
+
+.Let's analyze the temparature
+
+.Let's analyze the Rainfall data
+
 Corellation between rain and
 #
 # 2. Installation
 .Python versions 3.*.
+
 .Python Libraries:
+
 .sklearn.
+
 .Pandas.
+
 .numpy.
+
 .seaborn
+
 .matplotlib.
+
 .datetime.
 #
 # 3. Data
