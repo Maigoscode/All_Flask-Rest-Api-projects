@@ -1,9 +1,15 @@
 # Weather Data Analysis of Bangladesh
-1.Project Motivation #1
-2.Installation #2
-3.Data #3
-4.Implementation #4
-5.Results #5
+
+1.Project Motivation 
+
+2.Installation 
+
+3.Data 
+
+4.Implementation
+
+5.Results 
+
 # 1.Project Motivation
 In this project we focused data analysis with Westher  dataset of Bangladesh and answer the following questions:
 
