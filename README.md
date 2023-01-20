@@ -11,7 +11,7 @@
 5.Results 
 
 # 1.Project Motivation
-In this project we focused data analysis with Westher  dataset of Bangladesh and answer the following questions:
+In this project I focused data analysis with Westher  dataset of Bangladesh and answer the following questions:
 
 1.Temparature of Bangladesh
 
