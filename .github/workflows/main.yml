@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 jobs:
-  pythn-project:
+  pythn-Jupyter-project:
 
     runs-on: ubuntu-latest
     
