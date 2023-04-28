@@ -2,7 +2,7 @@
 
 .Python
 
-.Pycharm or Text Editor to Write python code
+.Pycharm,Jupyter or Text Editor to Write python code
 
 .Flask Library
 
